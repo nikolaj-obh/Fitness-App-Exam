@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1037319455871",
+    "project_id": "finalexamfitnessapp",
+    "storage_bucket": "finalexamfitnessapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037319455871:android:cf7295928ba3c53304eb4a",
+        "android_client_info": {
+          "package_name": "dk.nikolaj.fitnessappexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037319455871-cot3q1tvfdtpkp9cdq1umf02jh1lv765.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dk.nikolaj.fitnessappexam",
+            "certificate_hash": "6d5d3dded2177d43693207c2290b559eb2a1e0af"
+          }
+        },
+        {
+          "client_id": "1037319455871-9qd33pc0s2ril4to9te78a8akj5nfji7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKQFjsK_0duF1l7bnW-o0C9FIzDIhujBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037319455871-9qd33pc0s2ril4to9te78a8akj5nfji7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
