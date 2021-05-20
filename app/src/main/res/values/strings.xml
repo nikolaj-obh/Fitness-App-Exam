@@ -11,8 +11,8 @@
     <string name="title_categories">Categories</string>
 
     <!-- FACEBOOK AUTH -->
-    <string name="facebook_app_id">2531795773784294</string>
-    <string name="fb_login_protocol_scheme">fb2531795773784294</string>
+    <string name="facebook_app_id">278881340478448</string>
+    <string name="fb_login_protocol_scheme">fb278881340478448</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
     <!-- Daily Tip/Recommendation -->
